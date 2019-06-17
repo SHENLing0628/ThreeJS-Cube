@@ -34,6 +34,9 @@ Following the Three.js Guideline, Create the first Three.js Project within React
 1. Three.js官方文档: https://threejs.org/docs/#manual/en/introduction/Creating-a-scene
 2. Create-react-app 官方文档: https://facebook.github.io/create-react-app/docs/getting-started 
 
+## 详细教程
+https://shenling0628.github.io/post/Create-Threejs-on-React/ 
+
 ## 如何运行：
 
 ### 1. 安装node_modules相关模块 （假设已安装nodejs）:
