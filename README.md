@@ -1,68 +1,51 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Creating the First Three.js React app
+--
 
-## Available Scripts
+## Introduction of this Project:
+Following the Three.js Guideline, Create the first Three.js Project within React
 
-In the project directory, you can run:
+## Reference:
+1. Three.js Guideline: https://threejs.org/docs/#manual/en/introduction/Creating-a-scene
+2. Create-react-app Guideline: https://facebook.github.io/create-react-app/docs/getting-started 
 
-### `npm start`
+## How to run this app:
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### 1. install the related node_modules: (persume the node.js has been installed already)
+```
+    npm install
+```
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+### 2. Start app on http://localhost:3000/
+```
+    npm start
+```
+  or
+```
+    yarn start
+```
 
-### `npm test`
+创建第一个Three.js的React应用 (非React Hooks版本)
+--
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 项目介绍：
+根据Three.js官方文档，利用create-react-app创建第一个Three.js应用
 
-### `npm run build`
+## 参考资料：
+1. Three.js官方文档: https://threejs.org/docs/#manual/en/introduction/Creating-a-scene
+2. Create-react-app 官方文档: https://facebook.github.io/create-react-app/docs/getting-started 
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 如何运行：
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+### 1. 安装node_modules相关模块 （假设已安装nodejs）:
+```
+    npm install
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+### 2. 启动React应用，应用将在 http://localhost:3000/ 上打开
+```
+    npm start
+```
+  or
+```
+    yarn start
+```
